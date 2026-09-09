@@ -8,11 +8,13 @@ Construo software que resolve problemas reais — do sketch no papel ao app na l
 
 `Laravel` · `React` · `Flutter` · `React Native` · `Python` · `PHP` · `TypeScript` · `MySQL` · `Tailwind`
 
-## Destaques
+## Destaques (Projetos Autorais.)
 
-- 🌐 [Portfólio](https://github.com/kawehenri/portfolio) — projetos, experiência e contato
+- 🌐 [Portfólio](https://kawehenri.site) — projetos, experiência e contato
+- 🌐 [Portfólio](https://elloapessoa.site) - site de portfólio de atleta de judô
 - 📄 [Currículo](https://github.com/kawehenri/curriculo) — trajetória profissional
 - ✨ [ESSENZA ESTÉTICA](https://kawehenri.github.io/ESSENZA_ESTETICA/) — site premium para clínica de estética
+- ⚽ [NJR 10](https://ousadiayalegria.site) - site homenageando Neymar JR
 - 📱 Projetos mobile, web e integrações (pagamentos, APIs, PWA)
 
 ## Contato
