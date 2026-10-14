@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://kawehenri.site"><img src="https://img.shields.io/badge/Portfólio-kawehenri.site-0b1220?style=for-the-badge" /></a>
   <a href="mailto:kawehenri@gmail.com"><img src="https://img.shields.io/badge/Email-kawehenri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kawehenri/"><img src="https://img.shields.io/badge/LinkedIn-kawehenri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
